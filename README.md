@@ -1,7 +1,5 @@
 # Team-Agreement
 
-# Team-Agreement
-
 ## Authors: Bianca Chery, Anya Fleming, Gerard Johnson, Justine Oyaghiro
 
 ### Cooperation Plan
